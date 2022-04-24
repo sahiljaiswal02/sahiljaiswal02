@@ -1,20 +1,80 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Sahil Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">
+ <abc>
+  <br>Hi there! I'm Sahil Jaiswal, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> a web developer + designer. :computer:<br>  
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc> 
+</h2>
 
-- 🌱 I’m currently learning **Web Development and Designing.**
+<h4 align = "left>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
+- 🏦 I'm a web developer.<br>
+- 📝 I regulary Post technical Stuff on my Instagram. <br> 
+- 💻 I use daily .java, .html, .css <br>
+- 📖 I am currently Improving my Problem Solving. <br>
+- 💬 Talk to me about DSA <br>
+- ⚡ Code Game Repeat ⚡<br>
+</h4>                                                                                                               
+                                                                                                               
+                                                                                           
 
-- 📫 How to reach me **jaiswalsahil975@gmail.com**
 
-- ⚡ Fun fact **I enjoy making websites.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sahil.jaiswal.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.jaiswal.02" height="30" width="40" /></a>
+**My skills and tools-**
+                                                                                                               
+ <p align = "center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br />
 </p>
+                                                                                       
+**Programming Handles-**
+                                                                                       
+<p align="center">
+  <a href="https://www.codechef.com/users/sanskari_4">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/kartikey4/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;   
+  
+  <a href="https://codeforces.com/profile/sanskarijod">
+   <img src="https://i.ibb.co/BGBPsSJ/logo.png" alt ="codeforces" style="vertical-align:top; margin:4px; width:138px;height:32px">
+ </a>&nbsp;&nbsp;&nbsp;
+  
+</p>                                                                                       
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+**Connect with me-**                                                                                                                
+<h3 align = "center">       
+                    
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-singh-454076202/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/code.addicted/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartikeysingh4474@gmail.com)
+                    
+ &nbsp;
+                    
+ </h3> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljaiswal02&show_icons=true&locale=en&layout=compact" alt="sahiljaiswal02" /></p>
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+https://kartikeysingh.live/       <br>            
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahiljaiswal02&show_icons=true&locale=en" alt="sahiljaiswal02" /></p>
+
+                                                                                                                
+                                                                                                              
+
+<h3 align = "center">
+
+![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
+    
+</h3>
+<hr>
+<a href="https://github.com/kartikey4474/github-readme-activity-graph"><img alt="kartikey's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=kartikey4474&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
+<hr>                    
+                    
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
