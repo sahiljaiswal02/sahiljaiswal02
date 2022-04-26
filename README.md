@@ -23,31 +23,13 @@
 **My skills and tools-**
                                                                                                                
  <p align = "center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>  
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
 </p>
                                                                                        
-**Programming Handles-**
-                                                                                       
-<p align="center">
-  <a href="https://www.codechef.com/users/sanskari_4">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/kartikey4/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;   
-  
-  <a href="https://codeforces.com/profile/sanskarijod">
-   <img src="https://i.ibb.co/BGBPsSJ/logo.png" alt ="codeforces" style="vertical-align:top; margin:4px; width:138px;height:32px">
- </a>&nbsp;&nbsp;&nbsp;
-  
-</p>                                                                                       
+                                                                                      
 
 **Connect with me-**                                                                                                                
 <h3 align = "center">       
@@ -69,12 +51,12 @@ https://kartikeysingh.live/       <br>
 
 <h3 align = "center">
 
-![kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey4474&show_icons=true&theme=react)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikey4474&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
+![sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahiljaiswal02&show_icons=true&theme=react)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahiljaiswal02&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDA514)](https://git.io/streak-stats)
     
 </h3>
 <hr>
-<a href="https://github.com/kartikey4474/github-readme-activity-graph"><img alt="kartikey's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=kartikey4474&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
+<a href="https://github.com/sahiljaiswal02/github-readme-activity-graph"><img alt="sahil's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=sahiljaiswal02&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>                    
                     
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
