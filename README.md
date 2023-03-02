@@ -10,8 +10,8 @@
 <h4 align = "left>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me: <br>
 - 🏦 I'm a web developer.<br>
-- 📝 I regulary Post technical Stuff on my Instagram. <br> 
-- 💻 I use daily .java, .html, .css <br>
+- 📝 I regulary Post technical Stuff on my Github. <br> 
+- 💻 I use daily .java, .html, .css , .js <br>
 - 📖 I am currently Improving my Problem Solving. <br>
 - 💬 Talk to me about DSA <br>
 - ⚡ Code Game Repeat ⚡<br>
@@ -34,16 +34,16 @@
 **Connect with me-**                                                                                                                
 <h3 align = "center">       
                     
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-singh-454076202/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/code.addicted/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartikeysingh4474@gmail.com)
+[![Linkedin](https://www.linkedin.com/in/sahil-jaiswal-59018a219/)
+[![Instagram](https://www.instagram.com/_._sahil_._jaiswal_._/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jaiswalsahil975@gmail.com)
                     
  &nbsp;
                     
  </h3> 
 
-<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-https://kartikeysingh.live/       <br>            
+<h2>See my portfolio <img src="https://sahiljaiswal02.netlify.app/" width="30" height="40"/></h2>
+(https://sahiljaiswal02.netlify.app/)       <br>            
 
 
                                                                                                                 
