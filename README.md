@@ -34,16 +34,16 @@
 **Connect with me-**                                                                                                                
 <h3 align = "center">       
                     
-[![Linkedin]("https://www.linkedin.com/in/sahil-jaiswal-59018a219/")
-[![Instagram]("https://www.instagram.com/_._sahil_._jaiswal_._/")
+[![Linkedin](https://www.linkedin.com/in/sahil-jaiswal-59018a219/)
+[![Instagram](https://www.instagram.com/_._sahil_._jaiswal_._/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jaiswalsahil975@gmail.com)
                     
  &nbsp;
                     
  </h3> 
 
-<h2>See my portfolio <img src="https://sahiljaiswal02.netlify.app/" width="30" height="40"/></h2>
-(https://sahiljaiswal02.netlify.app/)       <br>            
+<h2>See my portfolio <img src="https://sahiljaiswallive.netlify.app/" width="30" height="40"/></h2>
+(https://sahiljaiswallive.netlify.app/)       <br>            
 
 
                                                                                                                 
