@@ -39,8 +39,8 @@
 **Connect with me-**                                                                                                                
 <h3 align = "center">       
                     
-[![Linkedin](https://www.linkedin.com/in/sahil-jaiswal-59018a219/)
-[![Instagram](https://www.instagram.com/_._sahil_._jaiswal_._/)
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/sahil-jaiswal-59018a219/)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://www.instagram.com/_._sahil_._jaiswal_._/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jaiswalsahil975@gmail.com)
                     
  &nbsp;
