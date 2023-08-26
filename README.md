@@ -34,7 +34,7 @@ I am a Full Stack Web Developer and UI Designer <img src="https://media.giphy.co
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sahil_jais02-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-jais/)
-- 
+- You can also contact me [<strong>Here</strong>](https://sahiljaiswallive.netlify.app/)
 
  ### :hammer_and_wrench: Languages and Tools :
 
