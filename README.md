@@ -62,6 +62,7 @@
 - 🏅 **Meta Front-End Development**
 - 🏅 **Meta JavaScript and Advanced React**
 - 🏅 **SAP Cloud Integration**
+- 🏅 **SAP Integration Developer**
 ---
 
 ## 🌱 I'm currently learning
