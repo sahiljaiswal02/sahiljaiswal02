@@ -61,6 +61,7 @@
 - 🏅 **Google User Experience (UX) Design**
 - 🏅 **Meta Front-End Development**
 - 🏅 **Meta JavaScript and Advanced React**
+- 🏅 **AutoCAD 2D and 3D**
 - 🏅 **SAP Cloud Integration**
 - 🏅 **SAP Integration Developer**
 ---
