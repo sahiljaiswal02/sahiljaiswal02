@@ -76,6 +76,7 @@
 ## 💬 Ask me about
 - 💻 Web development
 - 🎨 UI/UX design
+- 🏡 AutoCAD
 - 🛠️ Any tech-related topics
 
 ---
