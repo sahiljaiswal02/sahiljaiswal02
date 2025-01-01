@@ -69,7 +69,7 @@
 ## 🌱 I'm currently learning
 - 📈 Advanced cloud computing techniques
 - 🎨 Cutting-edge UI/UX design trends
-- 🏗️ SAP Integration Tools
+- 🏗️ Building Web Apps
 
 ---
 
