@@ -6,7 +6,7 @@
 ---
 
 🚀 **A curious Developer from India!**  
-- 🌐 Full Stack Development  
+- 🌐 Full Stack Developer  
 - 🎨 UI/UX Design  
 - 🖥️ Application Developer  
 
